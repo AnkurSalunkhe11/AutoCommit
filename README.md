@@ -101,24 +101,3 @@ act his -n 5
 ```
 - **Flag Description**:`-n` or `--limit`: (Optional) Specify the number of recent commit messages to retrieve. If omitted, all commit messages will be displayed.
 
-## Future Enhancements
-- **Cross-Platform Support**: Compatibility for MacOS.
-- **Git Hooks Integration**: Compatible with pre-commit hooks
-- **Custom Templates**: Support for user-defined commit message templates
-
-## Contributing
-
-We welcome contributions! To report bugs, fix issues, or add features, visit the [Issues](https://github.com/Spartan-71/AutoCommitt/issues) page. Please review our [Contribution Guide](CONTRIBUTING.md) for setup and contribution instructions.
-
-
-## Acknowledgments
-
-We would like to express our gratitude to the following open-source projects that made AutoCommitt possible:
-
-
-- [Ollama](https://ollama.ai/) - Enables local AI with large language models.
-- [Typer](https://typer.tiangolo.com/) - A CLI builder by [Sebastián Ramírez](https://github.com/tiangolo), powering our command-line interface.
-
-Special thanks to the maintainers and contributors for their outstanding work!
-
----
